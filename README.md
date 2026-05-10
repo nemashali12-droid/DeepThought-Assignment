@@ -25,7 +25,7 @@
 
 ## ✅ Submission Notes
 - Part A deliverables are uploaded here (CSV + methodology).
-- Part B proposal is included here, but the **hand‑drawn diagram** must also be submitted separately via Internshala chat as required.
+- Part B proposal is included here, but the **hand‑drawn diagram** is submitted separately via Internshala chat as required.
 
 ---
 
